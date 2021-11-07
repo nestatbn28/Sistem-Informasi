@@ -1,0 +1,71 @@
+#lihatsemua{
+    align-items: center;
+    margin-top: 5px;
+}
+#galeri{
+    text-align: center;
+}
+#berita{
+    padding-top: 20px;
+    box-shadow: 3px 4px 8px 3px rgba(0,0,0,0.2);
+    transition: 0.3s;    
+}
+div a img{
+    max-height: 400px;
+    max-width: 95%;
+}
+#date{
+    color: gray;
+}
+#beritacard{
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 150px;
+}
+#headerberita{
+    background-color: white;
+}
+#slidedua{
+    background-image: url("/img/slide_04.jpg");
+    }
+.komentar{
+    text-align:left;
+}
+#komen{
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+.btnberita{
+    margin-top: 10px;
+}
+nav ul li a{
+    margin-top: 15px;
+    font-size: 15pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-item :hover{
+    background-color:  #dadada;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.beritaberanda{
+    min-height: 200px;
+    padding: 10px;
+}
+iframe{
+    margin-bottom: 50px;
+    
+}
+#listgambar{
+    max-height: 400px;
+    max-width: 95%;
+}
+
+#strukturorganisasi{
+    max-height: 400px;
+    max-width: 95%;
+}
+.textartikel{
+    text-align: justify;
+}
